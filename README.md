@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Madhavan 👋
 
-<!--
-**madhavan1341/madhavan1341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack Developer | Founder of Matrix Bytes
+Building premium digital experiences for hotels and businesses. Focused on high-performance, mobile-responsive web solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Skills
+
+- **Languages:** Java, HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks:** Spring Boot, Angular, Bootstrap 5
+- **Services:** OTA Setup, Direct Booking Systems, Digital Asset Optimization
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+### 📊 GitHub Stats
+![Madhavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhavan1341&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhavan1341&layout=compact&theme=radical)
+
+---
+
+### 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhava-kumaran-521632233)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumaranmadhava9@gmail.com)
+
+---
+
+*“Turning complex problems into simple, beautiful, and intuitive digital solutions.”*
