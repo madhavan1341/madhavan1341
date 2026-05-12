@@ -14,11 +14,15 @@ Building premium digital experiences for hotels and businesses. Focused on high-
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-![Madhavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhavan1341&show_icons=true&theme=radical)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=madhavan1341&show_icons=true&theme=tokyonight" alt="Madhavan Stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhavan1341&layout=compact&theme=radical)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavan1341&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
